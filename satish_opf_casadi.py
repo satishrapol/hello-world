@@ -13,8 +13,7 @@ G = np.array([ \
 # P_load = np.array([3.00, 3.00, 3.00,4.00, 0.00])
 P_load = np.array([3.00, 3.00, 3.00,4.00, 0.00])
 
-P_Load_new_new = np.array([3.00, 3.00, 3.00,4.00, 0.00])
-alpha = 0.1
+alpha_01 = 0.1
 beta  = 14
 gamma = 1
 total_nodes = 5
