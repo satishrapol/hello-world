@@ -12,7 +12,7 @@ G = np.array([ \
     ])
 # P_load = np.array([3.00, 3.00, 3.00,4.00, 0.00])
 P_load = np.array([3.00, 3.00, 3.00,4.00, 0.00])
-
+P_load_new = np.array([0, 0, 0, 0])
 
 alpha = 0.1
 beta  = 14
